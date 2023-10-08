@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\csVSProjects.csproj",
-      "projectName": "csVSProjects",
-      "projectPath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\csVSProjects.csproj",
+      "projectUniqueName": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\email-validator.csproj",
+      "projectName": "email-validator",
+      "projectPath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\email-validator.csproj",
       "packagesPath": "C:\\Users\\pawel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\obj\\",
+      "outputPath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

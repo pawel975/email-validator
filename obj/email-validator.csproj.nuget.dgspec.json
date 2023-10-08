@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\csVSProjects.csproj": {}
+    "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\email-validator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\csVSProjects.csproj": {
+    "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\email-validator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\csVSProjects.csproj",
-        "projectName": "csVSProjects",
-        "projectPath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\csVSProjects.csproj",
+        "projectUniqueName": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\email-validator.csproj",
+        "projectName": "email-validator",
+        "projectPath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\email-validator.csproj",
         "packagesPath": "C:\\Users\\pawel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\obj\\",
         "projectStyle": "PackageReference",

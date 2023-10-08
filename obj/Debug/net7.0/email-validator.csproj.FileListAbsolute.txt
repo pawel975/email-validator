@@ -1,0 +1,14 @@
+C:\Users\pawel\source\repos\csVSProjects\email-validator\bin\Debug\net7.0\email-validator.exe
+C:\Users\pawel\source\repos\csVSProjects\email-validator\bin\Debug\net7.0\email-validator.deps.json
+C:\Users\pawel\source\repos\csVSProjects\email-validator\bin\Debug\net7.0\email-validator.runtimeconfig.json
+C:\Users\pawel\source\repos\csVSProjects\email-validator\bin\Debug\net7.0\email-validator.dll
+C:\Users\pawel\source\repos\csVSProjects\email-validator\bin\Debug\net7.0\email-validator.pdb
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\email-validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\email-validator.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\email-validator.AssemblyInfo.cs
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\email-validator.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\email-validator.dll
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\refint\email-validator.dll
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\email-validator.pdb
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\email-validator.genruntimeconfig.cache
+C:\Users\pawel\source\repos\csVSProjects\email-validator\obj\Debug\net7.0\ref\email-validator.dll
