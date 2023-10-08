@@ -1,4 +1,5 @@
 ﻿
+using System;
 using System.Text.RegularExpressions;
 
 namespace emailValidator
@@ -29,6 +30,9 @@ namespace emailValidator
                 else
                 {
                     Console.WriteLine("\nInvalid address...\n");
+                    EmailValidationErrorPrinter.printErrors(userInput);
+                    Console.WriteLine("\n");
+
                 }
 
             } while (userInput != "x");

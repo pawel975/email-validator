@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hdg36702Wvp6hEypoQ1HLs9RSwLnxYZmZdtHj7ygj5xRPWtPhEvQqOKebwFwRt2ELERO5SUy7+nakp1voRXtVw==",
+  "dgSpecHash": "6c1qAr4tqUbRWyz0XNIU30UVQ/9muHwKiBgLRfHEUShMkGr5ebIMGBBIY5JkQ+dJdCt6k7cPs5W7qM/sjDNb3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\email-validator.csproj",
+  "projectFilePath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\email-validator\\emailValidator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
